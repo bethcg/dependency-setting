@@ -1,6 +1,6 @@
 name: my_env
 channels:
-  - defaults
+  - nodefaults
   - conda-forge
 dependencies:
   - python=3.12
